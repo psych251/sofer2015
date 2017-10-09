@@ -1,1 +1,15 @@
+# Project Proposal
+
+## Background
+I aim to replicate Experiment 2 of “What Is Typical Is Good: The Influence of Face Typicality on Perceived Trustworthiness” (Sofer, Dotsch, Wigboldus, & Todorov, 2015). Published in *Psychological Science*, the experiment examines how face typicality and attractiveness influence the degree to which faces are seen as trustworthy. This work aligns well with my interests, as my research investigates how cultural differences in “ideal affect,” or the emotions that people value, influence interpersonal judgments and the implications for prosocial behavior. For instance, we have found that congruence between participants’ ideal affect and recipients’ emotional expression increases perceived trustworthiness, which in turn, leads to greater giving in a Dictator Game (Park, Blevins, Knutson, & Tsai, 2017). Through this replication project, I am interested in exploring factors other than emotional expression that signal trust.
+
+## Materials and Methods
+To replicate Experiment 2, approximately 50 female participants will be recruited to complete an online rating task. Participants will be randomly assigned to one of two conditions in which they make trustworthy or attractive ratings, respectively, on a 9-point scale. Each participant will view 11 composite faces, each of which varies from a “typical face” in attractiveness from -100% (unattractive) to 100% (attractive). Participants will rate the set of faces three times in separate blocks, and the order of face presentation will be randomized within each block. In total, participants will make 33 ratings.
+
+While the researchers contribute to the Open Science Framework, making their study materials (e.g., facial stimuli) accessible, a few questions still remain. For instance, the researchers recruited female university students in Israel, a homogeneous participant group. I am not sure whether to recruit university students through Stanford’s Credit Pool or whether to recruit participants on Amazon Mechanical Turk. Another potential challenge might arise from recruiting participants of varying cultural backgrounds. Given that the “typical face” reflects Israeli females, participants who are not of Israeli heritage might perceive it differently. Moreover, while a diverse female sample might be more representative of today’s multicultural population and extend the findings, it differs from Experiment 2 and might not provide an adequate replication. Lastly, depending on the study budget and whether participants receive money or course credit, the length of the study may need to be shortened. It is possible for participants to rate all 11 faces only once, although this will deviate from the original study.
+
+*References*
+Sofer, C., Dotsch, R., Wigboldus, D. H., & Todorov, A. (2015). What is typical is good: The influence of face typicality on perceived trustworthiness. *Psychological Science*, *26*(1), 39-47.
+
+Park, B., Blevins, E., Knutson, B., & Tsai, J. L. (2017). Neurocultural evidence that ideal affect match promotes giving. *Social Cognitive and Affective Neuroscience*, *12*(7), 1083-1096.
 
