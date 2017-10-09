@@ -8,7 +8,7 @@ To replicate Experiment 2, approximately 50 female participants will be recruite
 
 While the researchers contribute to the Open Science Framework, making their study materials (e.g., facial stimuli) accessible, a few questions still remain. For instance, the researchers recruited female university students in Israel, a homogeneous participant group. I am not sure whether to recruit university students through Stanford’s Credit Pool or whether to recruit participants on Amazon Mechanical Turk. Another potential challenge might arise from recruiting participants of varying cultural backgrounds. Given that the “typical face” reflects Israeli females, participants who are not of Israeli heritage might perceive it differently. Moreover, while a diverse female sample might be more representative of today’s multicultural population and extend the findings, it differs from Experiment 2 and might not provide an adequate replication. Lastly, depending on the study budget and whether participants receive money or course credit, the length of the study may need to be shortened. It is possible for participants to rate all 11 faces only once, although this will deviate from the original study.
 
-*References*
+### *References*
 Sofer, C., Dotsch, R., Wigboldus, D. H., & Todorov, A. (2015). What is typical is good: The influence of face typicality on perceived trustworthiness. *Psychological Science*, *26*(1), 39-47.
 
 Park, B., Blevins, E., Knutson, B., & Tsai, J. L. (2017). Neurocultural evidence that ideal affect match promotes giving. *Social Cognitive and Affective Neuroscience*, *12*(7), 1083-1096.
